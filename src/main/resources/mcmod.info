@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "FixxedClient",
+    "name": "FixxedClient",
+    "description": "",
+    "version": "114514",
+    "mcversion": "1.8.9",
+    "url": "https://fixxed.tk",
+    "updateUrl": "",
+    "authorList": ["Fixxed", "Skidder","CCBlueX", "UnlegitMC"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
